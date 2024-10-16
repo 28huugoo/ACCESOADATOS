@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<Productos>
+    <Producto id="111">
+        <nombre>Taburete arcade personalizado con diseño de Street Fighter Ryu y Ken.</nombre>
+        <material>cuero sintético, acero cromado, plástico y tela.</material>
+        <peso>aprox. 4,8 kg.</peso>
+        <pie>aprox. 6 cm.</pie>
+        <distancia>aprox. 43 cm.</distancia>
+        <altura>aprox. 63 – 84 cm.</altura>
+        <base>aprox. 39 cm.</base>
+        <asiento>acolchado.</asiento>
+        <acabado>de alta calidad y muy firme.</acabado>
+        <reposapies>cromado.</reposapies>
+        <giro>Giro 360 grados y ajustable en altura.</giro>
+        <proteccion>Protección antideslizante en la base.</proteccion>
+        <baseypie>Base y pie de acero cromado.</baseypie>
+    </Producto>
+    <Producto id="222">
+        <nombre>Taburete arcade personalizado con diseño de Street Fighter Ryu y Ken.</nombre>
+        <material>cuero sintético, acero cromado, plástico y tela.</material>
+        <peso>aprox. 4,8 kg.</peso>
+        <pie>aprox. 6 cm.</pie>
+        <distancia>aprox. 43 cm.</distancia>
+        <altura>aprox. 63 – 84 cm.</altura>
+        <base>aprox. 39 cm.</base>
+        <asiento>acolchado.</asiento>
+        <acabado>de alta calidad y muy firme.</acabado>
+        <reposapies>cromado.</reposapies>
+        <giro>Giro 360 grados y ajustable en altura.</giro>
+        <proteccion>Protección antideslizante en la base.</proteccion>
+        <baseypie>Base y pie de acero cromado.</baseypie>
+    </Producto>
+        <Producto id="333">
+        <nombre>Taburete arcade personalizado con diseño de Mario Bros.</nombre>
+        <material>cuero sintético, acero cromado, plástico y tela.</material>
+        <peso>aprox. 4,8 kg.</peso>
+        <pie>aprox. 6 cm.</pie>
+        <distancia>aprox. 43 cm.</distancia>
+        <altura>aprox. 63 – 84 cm.</altura>
+        <base>aprox. 39 cm.</base>
+        <asiento>acolchado.</asiento>
+        <acabado>de alta calidad y muy firme.</acabado>
+        <reposapies>cromado.</reposapies>
+        <giro>Giro 360 grados y ajustable en altura.</giro>
+        <proteccion>Protección antideslizante en la base.</proteccion>
+        <baseypie>Base y pie de acero cromado.</baseypie>
+    </Producto>
+    
+</Productos>
+
+
